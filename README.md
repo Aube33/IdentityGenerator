@@ -7,3 +7,11 @@ Age: 26,
 First name: Wiatt,
 Last name: Slezak,
 Mail: wia.slezak@gmail.com```
+
+```json
+{
+  "firstName": "A",
+  "lastName": "B
+  "age": 18
+}
+```
