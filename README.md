@@ -1,7 +1,7 @@
 ## Example output:
 <hr>
 
-```json
+```yaml
 Sex: Male,
 Birthday: 23 August 1996,
 Age: 26,
